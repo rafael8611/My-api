@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebAppAzure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d948cbc1d49be8c83d8a81e0087751fe7a213ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebAppAzure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebAppAzure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

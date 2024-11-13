@@ -28,3 +28,4 @@ C:\Users\almei\source\repos\WebAppAzure\WebAppAzure\obj\Debug\net8.0\refint\WebA
 C:\Users\almei\source\repos\WebAppAzure\WebAppAzure\obj\Debug\net8.0\WebAppAzure.pdb
 C:\Users\almei\source\repos\WebAppAzure\WebAppAzure\obj\Debug\net8.0\WebAppAzure.genruntimeconfig.cache
 C:\Users\almei\source\repos\WebAppAzure\WebAppAzure\obj\Debug\net8.0\ref\WebAppAzure.dll
+C:\Users\almei\source\repos\WebAppAzure\WebAppAzure\obj\Debug\net8.0\WebAppAzure.sourcelink.json
